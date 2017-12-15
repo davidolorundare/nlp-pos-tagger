@@ -1,0 +1,141 @@
+
+* POS tags: 
+- # of all POS tags (excluding STOP): 23
+
+* Training data:
+- # of sentences: 6
+- # of unique words: 134
+- # of word tokens: 192
+- # of POS tags: 221
+- # of Bigrams: 93
+
+* Test data:
+- # of word tokens (including </s>'s): 127
+
+
+Accuracy:	48/122 = 39.34
+ - Known:	46/60 = 76.67
+ - UnKnown:	2/62 = 3.23
+
+`` `` ``
+The DT DT
+U.S. NNP ``
+underestimated VBD VBD
+Noriega NNP VBD
+all DT VBD
+along IN VBD
+, , ,
+'' '' ''
+says VBZ ``
+Ambler NNP VBD
+Moss NNP VBD
+, , ,
+a DT DT
+former JJ ``
+Ambassador NNP VBD
+to TO TO
+Panama NNP ``
+. . .
+`` `` ``
+He PRP VBD
+has VBZ VBZ
+mastered VBN ``
+the DT DT
+art NN ``
+of IN IN
+survival NN ``
+. . .
+'' '' ''
+In IN ``
+keeping VBG PRP$
+with IN VBP
+America NNP VBG
+'s POS POS
+long JJ VBD
+history NN VBD
+of IN IN
+propping VBG ``
+up IN VBD
+Mr. NNP NNP
+Noriega NNP PRP$
+, , ,
+recent JJ ``
+U.S. NNP VBD
+actions NNS VBD
+have VBP VBD
+extended VBN VBD
+rather RB VBD
+than IN VBD
+shortened VBN VBD
+his PRP$ PRP$
+survival NN VBD
+. . .
+Mr. NNP NNP
+Noriega NNP PRP$
+might MD VBP
+have VB VBG
+fallen VBN ''
+of IN IN
+his PRP$ PRP$
+own JJ VBD
+weight NN VBD
+in IN IN
+1988 CD ``
+because IN VBD
+of IN IN
+Panama NNP ``
+'s POS POS
+dire JJ VBD
+economic JJ VBD
+situation NN VBD
+, , ,
+says VBZ NN
+Mr. NNP NNP
+Moss NNP PRP$
+, , ,
+but CC ``
+increasing VBG VBD
+external JJ VBD
+pressure NN VBD
+has VBZ VBZ
+only RB ``
+given VBN VBD
+him PRP VBP
+additional JJ VBG
+excuses NNS VBD
+for IN IN
+repression NN ``
+, , ,
+and CC CC
+a DT DT
+scapegoat NN ``
+for IN IN
+his PRP$ PRP$
+own JJ VBD
+mismanagement NN VBD
+. . .
+`` `` ``
+If IN VBD
+the DT DT
+U.S. NNP ``
+had VBD VBD
+sat VBN VBD
+back RB VBD
+and CC CC
+done VBN NN
+nothing NN VBZ
+, , ,
+he PRP NN
+might MD VBZ
+not RB ''
+have VB VBD
+made VBN VBN
+it PRP VBD
+through IN VBD
+1988 CD VBD
+, , ,
+'' '' ''
+Mr. NNP NNP
+Moss NNP PRP$
+contends VBZ VBP
+. . .
