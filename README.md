@@ -3,7 +3,7 @@ Academic Project - An NLP Parts Of Speech (PoS) Tagger program
 
 ## Overview:
 
-This command-line program implemented is a Hidden Markov Model based Parts of Speech (PoS) tagging system which tags a given set of input of English words with their corresponding part of speech. Internally it makes use of a Viterbi decoding algorithm via a bigram tag (or state) model.
+This command-line program implemented is a Hidden Markov Model (HMM)-based Parts of Speech (PoS) tagging system which tags a given set (of input) of English words with their corresponding parts of speech. Internally it makes use of a Viterbi decoding algorithm via a bigram tag-(or state) model.
 
 It makes use of training data obtained from segments of the Wall Street Journal (WSJ) corpus annotated with Penn Treebank POS tags.  The training data is annotated with the correct PoS tags, and enables the program to compute the accuracy of the model's performance; using a separate test data containing unknown/new words. Returned as output to the console are the tagged data as well as some performance metrics on both training and testing data, such as:
 
